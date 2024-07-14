@@ -6,4 +6,4 @@ Trane is here
 Add line
 commit test
 тут вам не здесь
-fffff
+fffff69
